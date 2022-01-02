@@ -1,37 +1,11 @@
-
-# Hello there 👋, I'm Harilala! 🦦
-
-**Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)](https://www.linkedin.com/in/andrespedes12/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
-
-<!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
-
-<!--
-**pedes/pedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
-
-- 🤓 I'm Java Advocate (a.k.a. Evangelist)
-- 💬 Let's talk about Software Architecture, Java, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
-
+## Hey 👋, This is Harilala rakotoniaina
+[![Gmail Badge](https://img.shields.io/badge/-harilalarakotoniaina8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harilalarakotoniaina8@gmail.com)](mailto:harilalarakotoniaina8@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-harilalarakotoniaina-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harilalarakotoniaina/)](https://www.linkedin.com/in/harilalarakotoniaina/) [![Github Badge](https://img.shields.io/badge/-harilalarakotoniaina8@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/harilalarakotoniaina8@gmail.com/)](https://www.github.com/harilalarakotoniaina8@gmail.com/) [![Twitter Badge](https://img.shields.io/badge/- -00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ /)](https://www.twitter.com/ /) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=harilalariri/)](harilalariri/) <p align='left'>Software developer /
+Living in Antananarivo and currently working at S2M.
+Working with Python, PHP, vue.js, angular.
+I have no special talent, I'm only passionately curious. </p><p align='left'> You can view my resume <a href='  ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pedes&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
+<p align=left> <img src=https://komarev.com/ghpvc/?username=harilalarakotoniaina8@gmail.com alt=harilalarakotoniaina8@gmail.com /> </p>
 
-
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=harilalarakotoniaina8@gmail.com&show_icons=true&include_all_commits=true)](https://github.com/harilalarakotoniaina8@gmail.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harilalarakotoniaina8@gmail.com&layout=compact)](https://github.com/harilalarakotoniaina8@gmail.com/github-readme-stats)
