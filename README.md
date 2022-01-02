@@ -7,10 +7,6 @@
 Software developer /<br>
 Living in Antananarivo and currently working at S2M.<br>
 Working with Python, PHP, vue.js, angular.<br>
-### I have no special talent, I'm only passionately curious. </p><p align='left'> You can view my resume <a href='  ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=harilalarakotoniaina8@gmail.com alt=harilalarakotoniaina8@gmail.com /> </p>
-
 
 - 👨🏽‍💻 I’m currently working on [RoyaummeDesSaveurs](https://github.com/Adarshreddyash/ronix-frontend);
 - 🌱 I’m currently learning GraphQL ,typescript and AI; 
@@ -19,3 +15,5 @@ Working with Python, PHP, vue.js, angular.<br>
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Vengixlabs:My future Project which helps in S2M for companies. 
 - 📫 How to reach me: harilalarakotoniaina8@gmail.com; 
+
+### I have no special talent, I'm only passionately curious. </p>
