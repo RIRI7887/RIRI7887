@@ -5,7 +5,7 @@
 **Talking about Personal Stuffs:**
 
 Software developer /<br>
-Living in Antananarivo and currently working at S2M.<br>
+Living in Antananarivo and currently working at Comdatagroup Madagascar.<br>
 Working with Python, PHP, vue.js, angular.<br>
 Work better on the combinaison of Codeingniter,JQuery,HTML5&CSS3,PostgreSQL.<br>
 
