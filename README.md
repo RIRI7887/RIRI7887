@@ -5,15 +5,13 @@
 **Talking about Personal Stuffs:**
 
 Software developer /<br>
-Living in Antananarivo and currently working at Comdatagroup Madagascar.<br>
+Living in Antananarivo and currently working at Konectagroup Madagascar.<br>
 Working with Python, PHP, vue.js, angular.<br>
 Work better on the combinaison of Codeingniter,JQuery,HTML5&CSS3,PostgreSQL.<br>
 
 - 👨🏽‍💻 I’m currently working on [RoyaummeDesSaveurs](https://github.com/RIRI7887/RoyaumeDesSaveurs);
 - 🌱 I’m currently learning GraphQL ,typescript and AI; 
-- 👯 I’m looking to collaborate on [RoyaummeDesSaveurs](https://github.com/RIRI7887/RoyaumeDesSaveurs) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
+- 👯 I’m looking to collaborate on [RoyaummeDesSaveurs](https://github.com/RIRI7887/RoyaumeDesSaveurs) 🤝; 
 - ⚡️ SIFAKA : My curents Project which helps in S2M for companies. 
 - 📫 How to reach me: harilalarakotoniaina8@gmail.com; 
 
