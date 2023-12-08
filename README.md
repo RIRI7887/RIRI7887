@@ -1,19 +1,7 @@
 # Hey 👋, This is [Harilala](https://github.com/RIRI7887)
 [![Gmail Badge](https://img.shields.io/badge/-harilalarakotoniaina8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harilalarakotoniaina8@gmail.com)](mailto:harilalarakotoniaina8@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-harilalarakotoniaina-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harilalarakotoniaina/)](https://www.linkedin.com/in/harilalarakotoniaina/) [![Github Badge](https://img.shields.io/badge/-harilalarakotoniaina8@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/harilalarakotoniaina8@gmail.com/)](https://www.github.com/harilalarakotoniaina8@gmail.com/) 
-
-**Talking about Personal Stuffs:**
-
-Software developer /<br>
-Living in Antananarivo and currently working at Konectagroup Madagascar.<br>
-Working with Python, PHP, vue.js, angular.<br>
-Work better on the combinaison of Codeingniter,JQuery,HTML5&CSS3,PostgreSQL.<br>
-
-- 👨🏽‍💻 I’m currently working on [RoyaummeDesSaveurs](https://github.com/RIRI7887/RoyaumeDesSaveurs);
-- 🌱 I’m currently learning GraphQL ,typescript and AI; 
-- 👯 I’m looking to collaborate on [RoyaummeDesSaveurs](https://github.com/RIRI7887/RoyaumeDesSaveurs) 🤝; 
-- ⚡️ SIFAKA : My curents Project which helps in S2M for companies. 
-- 📫 How to reach me: harilalarakotoniaina8@gmail.com; 
+ 
 
 
 **Languages and Tools:**  
