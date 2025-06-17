@@ -1,18 +1,58 @@
-#  [Harilala](https://github.com/RIRI7887)
-[![Gmail Badge](https://img.shields.io/badge/-harilalariri@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harilalariri@gmail.com)](mailto:harilalariri@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-harilalarakotoniaina-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harilalarakotoniaina/)](https://www.linkedin.com/in/harilalarakotoniaina/) [![Github Badge](https://img.shields.io/badge/-harilalariri@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/harilalariri@gmail.com/)](https://www.github.com/harilalariri8@gmail.com/) 
- 
+# 👋 Salut, moi c'est Harilala Rakotoniaina
 
+🎯 Développeur Web Full Stack passionné | 3,5 ans d'expérience  
+📍 Basé à Madagascar  
+🌐 [www.delanosolution.com](http://www.delanosolution.com)  
+📫 Contact : harilalariri@gmail.com | +261 32 60 183 22
 
-**Languages and Tools:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-4-1175201.png"></code> 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-<code><img height="20" src="https://logowik.com/content/uploads/images/php.jpg"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## 🧠 À propos de moi
 
- 
+Je suis un développeur Full Stack avec un Master 1 en Développement Web et Design. Curieux, rigoureux et toujours en quête d'évolution, j'ai travaillé sur plusieurs projets professionnels (sites web, applications de gestion, CRM, etc.) pour des clients locaux et internationaux.
+
+Je maîtrise aussi bien le **front-end** que le **back-end**, avec une attention particulière à la **performance**, la **sécurité** et l'**expérience utilisateur**.
+
+---
+
+## 🔧 Compétences techniques
+
+- **Langages** : HTML5, CSS3, JavaScript (ES6+), PHP, Python, SQL, NoSQL
+- **Front-end** : React.js, Vue.js, Bootstrap, Tailwind CSS
+- **Back-end** : Node.js, CodeIgniter 4, Laravel 10
+- **Base de données** : MySQL, PostgreSQL, Oracle, MongoDB
+- **Outils DevOps** : Git, GitHub, GitLab, Docker, Apache, Nginx
+- **Qualité & sécurité** : SSL/TLS, tests unitaires, tests d’intégration, Selenium, JMeter
+- **Méthodologies** : Agile, Scrum, Kanban
+
+---
+
+## 💼 Expériences professionnelles
+
+- 🔹 Développeur d’exploitation chez **Konecta Group Madagascar**
+- 🔹 Développeur Web chez **Société Malgache des Magasins (Carrefour MG)**
+- 🔹 Freelance Web Developer sur **Upwork**
+- 🔹 Projets personnels & clients : [www.delanosolution.com](http://www.delanosolution.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Harilala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIRI7887&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIRI7887&layout=compact&theme=radical)
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 Français (DALF C1)
+- 🇬🇧 Anglais (B2)
+- 🇲🇬 Malagasy (Langue maternelle)
+
+---
+
+## 🤝 Restons connectés
+
+- 🌐 [Mon portfolio](http://www.delanosolution.com)
+- 💼 [Mon profil Upwork](https://www.upwork.com/freelancers/~0145718ec6ce236524)
+- 📨 harilalariri@gmail.com
