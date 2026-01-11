@@ -55,24 +55,24 @@ const arda = {
 <td width="50%">
 
 # La Kaz de Ben — Site vitrine & back-office
+[www.lakazdeben.fr](https://www.lakazdeben.fr/)
 
-Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour améliorer la visibilité locale (SEO) et centraliser les informations clés : suggestions de la semaine, actualités, avis, et contact (réservations uniquement par téléphone). [file:2]
+Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour améliorer la visibilité locale (SEO) et centraliser les informations clés : suggestions de la semaine, actualités, avis, et contact (réservations uniquement par téléphone). 
 
 ## Fonctionnalités
-- Pages : Accueil, Bienvenue, Équipe, Suggestions de la semaine, Actualités, Vos avis, Contact, Mentions légales, Politique de confidentialité. [file:1][file:2]
-- CTA téléphone visible + navigation simple, orientée conversion mobile. [file:1][file:2]
-- Formulaire de contact (envoi email) avec message clair “pas de réservation en ligne”. [file:1][file:2]
-- Back-office Filament mobile-friendly : gestion des contenus (suggestions, actus, pages, avis, SEO par ville, réglages). [file:1]
-- SEO local : pages “restaurant + ville” avec contenu administrable, métadonnées, sitemap et balisage Schema.org Restaurant. [file:1]
+- Pages : Accueil, Bienvenue, Équipe, Suggestions de la semaine, Actualités, Vos avis, Contact, Mentions légales, Politique de confidentialité.
+- CTA téléphone visible + navigation simple, orientée conversion mobile.
+- Formulaire de contact (envoi email).
+- Back-office Filament mobile-friendly : gestion des contenus (suggestions, actus, pages, avis, SEO par ville, réglages).
+- SEO local : pages “restaurant + ville” avec contenu administrable, métadonnées, sitemap et balisage Schema.org Restaurant.
 
 ## Stack
-- Laravel 11, FilamentPHP, MySQL, Blade, HTML/CSS/JS. [file:1]
-- Animations et micro-interactions : GSAP (et utilitaires JS/jQuery). [file:1]
+- Laravel 11, FilamentPHP v4, MySQL, Blade, HTML/CSS/JS. 
+- Animations et micro-interactions : GSAP (et utilitaires JS/jQuery).
 
 ## Notes
-- Optimisations front : images WebP + lazy-loading, approche mobile-first. [file:1]
-- Déploiement prévu sur VPS (Nginx / PHP 8.3 recommandé). [file:1]
-
+- Optimisations front : images WebP + lazy-loading, approche mobile-first.
+- Déploiement sur Dockploy (Nginx / PHP 8.3 / MySQL).
 
 </td>
 <td width="50%">
