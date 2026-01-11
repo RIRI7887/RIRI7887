@@ -1,58 +1,114 @@
-# 👋 Salut, moi c'est Harilala Rakotoniaina
+<div align="center">
 
-🎯 Développeur Web Full Stack passionné | 3,5 ans d'expérience  
-📍 Basé à Madagascar  
-🌐 [www.delanosolution.com](http://www.delanosolution.com)  
-📫 Contact : harilalariri@gmail.com | +261 32 60 183 22
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARILALA%20RIRI%20&animation=twinkling&textBg=false&desc=web%20application%20developer&descSize=20&descAlign=50&descAlignY=62)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Design+%2B+Technology+%2B+User+Experience;Building+Beautiful+%26+Functional+Solutions)](https://git.io/typing-svg)
 
-## 🧠 À propos de moi
+<p align="center">
+  <a href="https://riri7887.github.io/">HARILALA.DEV</a>
+  <a href="https://www.linkedin.com/in/harilalarakotoniaina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://www.instagram.com/harilalariri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:harilalariri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Je suis un développeur Full Stack avec un Master 1 en Développement Web et Design. Curieux, rigoureux et toujours en quête d'évolution, j'ai travaillé sur plusieurs projets professionnels (sites web, applications de gestion, CRM, etc.) pour des clients locaux et internationaux.
+</div>
 
-Je maîtrise aussi bien le **front-end** que le **back-end**, avec une attention particulière à la **performance**, la **sécurité** et l'**expérience utilisateur**.
+<br/>
 
----
+## 🎯 About Me
 
-## 🔧 Compétences techniques
+Full Stack developer passionate about creating seamless user experiences at the intersection of design and technology. 
 
-- **Langages** : HTML5, CSS3, JavaScript (ES6+), PHP, Python, SQL, NoSQL
-- **Front-end** : React.js, Vue.js, Bootstrap, Tailwind CSS
-- **Back-end** : Node.js, CodeIgniter 4, Laravel 10
-- **Base de données** : MySQL, PostgreSQL, Oracle, MongoDB
-- **Outils DevOps** : Git, GitHub, GitLab, Docker, Apache, Nginx
-- **Qualité & sécurité** : SSL/TLS, tests unitaires, tests d’intégration, Selenium, JMeter
-- **Méthodologies** : Agile, Scrum, Kanban
+**Focus Areas:**
+```typescript
+const arda = {
+    interests: ["AI Development", "UI/UX Design", "Full-Stack Architecture"],
+    currentlyLearning: ["AI-Assisted Development", "Modern Web Frameworks"],
+    toolbox: ["PHP","React", "Laravel", "TypeScript", "Filament"],
+    philosophy: "The future of development is collaborative - between humans and AI"
+};
+```
 
----
+<br/>
 
-## 💼 Expériences professionnelles
+## 🛠️ Tech Stack
 
-- 🔹 Développeur d’exploitation chez **Konecta Group Madagascar**
-- 🔹 Développeur Web chez **Société Malgache des Magasins (Carrefour MG)**
-- 🔹 Freelance Web Developer sur **Upwork**
-- 🔹 Projets personnels & clients : [www.delanosolution.com](http://www.delanosolution.com)
+<div align="center">
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=pHP&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-339933?style=for-the-badge&logo=filament&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📈 GitHub Stats
+</div>
 
-![Harilala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RIRI7887&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RIRI7887&layout=compact&theme=radical)
+<br/>
 
----
+## ✍️ Latest Writing
 
-## 🌍 Langues
+<table>
+<tr>
+<td width="50%">
 
-- 🇫🇷 Français (DALF C1)
-- 🇬🇧 Anglais (B2)
-- 🇲🇬 Malagasy (Langue maternelle)
+### 🔮 AI & Development
+[**The Future of Full-Stack: v0 and Cursor**](https://hardaistee.medium.com/the-future-of-full-stack-an-introduction-to-v0-and-cursor-dbc6aa3f4f50)
 
----
+*The next-gen "AI Stack" merging years of experience with AI speed*
 
-## 🤝 Restons connectés
+</td>
+<td width="50%">
 
-- 🌐 [Mon portfolio](http://www.delanosolution.com)
-- 💼 [Mon profil Upwork](https://www.upwork.com/freelancers/~0145718ec6ce236524)
-- 📨 harilalariri@gmail.com
+### 🔐 Privacy & Security
+[**Lokal Kod Asistanı Kurulum Rehberi**](https://hardaistee.medium.com/kodunuz-sadece-sizin-kals%C4%B1n-lokal-ai-asistan%C4%B1-kurulum-rehberi-f690014e26dd)
+
+*Keep your code private with local AI assistants*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎵 Creative Projects
+[**Fake Your Spotify Wrapped**](https://hardaistee.medium.com/gaslight-gatekeep-generate-how-to-fake-your-spotify-wrapped-before-it-drops-17c5a0e73d10)
+
+*Edit your 2025 stats with Recapify - embrace the delulu*
+
+</td>
+<td width="50%">
+
+### 🤔 Philosophy
+[**Var Olmamaktan Korkmak**](https://hardaistee.medium.com/var-olmamaktan-korkmak-ca4ac14aeca8)
+
+*Reflections on existence and meaning*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+##  Let's Connect
+
+<div align="center">
+
+**Open to collaborations, opportunities, and conversations about tech & design**
+
+<br/>
+
+[![Website](https://img.shields.io/badge/harilala-riri-dev)](https://riri7887.github.io/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer)
+
+</div>
