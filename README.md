@@ -48,16 +48,31 @@ const arda = {
 
 <br/>
 
-## ✍️ Latest Writing
+## ✍️ Latest Project
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔮 AI & Development
-[**The Future of Full-Stack: v0 and Cursor**](https://hardaistee.medium.com/the-future-of-full-stack-an-introduction-to-v0-and-cursor-dbc6aa3f4f50)
+# La Kaz de Ben — Site vitrine & back-office
 
-*The next-gen "AI Stack" merging years of experience with AI speed*
+Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour améliorer la visibilité locale (SEO) et centraliser les informations clés : suggestions de la semaine, actualités, avis, et contact (réservations uniquement par téléphone). [file:2]
+
+## Fonctionnalités
+- Pages : Accueil, Bienvenue, Équipe, Suggestions de la semaine, Actualités, Vos avis, Contact, Mentions légales, Politique de confidentialité. [file:1][file:2]
+- CTA téléphone visible + navigation simple, orientée conversion mobile. [file:1][file:2]
+- Formulaire de contact (envoi email) avec message clair “pas de réservation en ligne”. [file:1][file:2]
+- Back-office Filament mobile-friendly : gestion des contenus (suggestions, actus, pages, avis, SEO par ville, réglages). [file:1]
+- SEO local : pages “restaurant + ville” avec contenu administrable, métadonnées, sitemap et balisage Schema.org Restaurant. [file:1]
+
+## Stack
+- Laravel 11, FilamentPHP, MySQL, Blade, HTML/CSS/JS. [file:1]
+- Animations et micro-interactions : GSAP (et utilitaires JS/jQuery). [file:1]
+
+## Notes
+- Optimisations front : images WebP + lazy-loading, approche mobile-first. [file:1]
+- Déploiement prévu sur VPS (Nginx / PHP 8.3 recommandé). [file:1]
+
 
 </td>
 <td width="50%">
