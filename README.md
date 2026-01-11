@@ -1,11 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARILALA%20RIRI%20&animation=twinkling&textBg=false&desc=web%20application%20developer&descSize=20&descAlign=50&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HARILALA%20RIRI%20&animation=twinkling&textBg=false&desc=web%20application%20developer%20%20|%204%20Years%20Experience&descSize=20&descAlign=50&descAlignY=62)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Design+%2B+Technology+%2B+User+Experience;Building+Beautiful+%26+Functional+Solutions)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://riri7887.github.io/">HARILALA.DEV</a>
   <a href="https://www.linkedin.com/in/harilalarakotoniaina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://www.instagram.com/harilalariri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:harilalariri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
