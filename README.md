@@ -77,28 +77,27 @@ Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour amé
 </td>
 <td width="50%">
 
-### 🔐 Privacy & Security
-[**Lokal Kod Asistanı Kurulum Rehberi**](https://hardaistee.medium.com/kodunuz-sadece-sizin-kals%C4%B1n-lokal-ai-asistan%C4%B1-kurulum-rehberi-f690014e26dd)
+# Lycée Saint Pierre Malaza (LSPM) — Site institutionnel
+[www.saint-pierre-malaza.com](https://saint-pierre-malaza.com/)
 
-*Keep your code private with local AI assistants*
+Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné à présenter l’établissement (présentation, infrastructures) et à faciliter le contact (téléphone + emails) pour les élèves, parents et visiteurs.
+
+## Fonctionnalités
+- Pages d’information : Présentation de l’école + pages dédiées aux infrastructures/installations.
+- Page contact avec coordonnées : téléphone et emails.
+- Mise en avant de la localisation : Andoharanofotsy, Antananarivo (Md Piera Malaza).
+
+## Contenu & communication
+- Publication d’articles/actualités (ex. page “Une meilleure communication entre enseignants, élèves et parents”).
+- Objectif : améliorer l’accès à l’information et la communication entre l’établissement et sa communauté.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎵 Creative Projects
-[**Fake Your Spotify Wrapped**](https://hardaistee.medium.com/gaslight-gatekeep-generate-how-to-fake-your-spotify-wrapped-before-it-drops-17c5a0e73d10)
-
-*Edit your 2025 stats with Recapify - embrace the delulu*
-
 </td>
 <td width="50%">
-
-### 🤔 Philosophy
-[**Var Olmamaktan Korkmak**](https://hardaistee.medium.com/var-olmamaktan-korkmak-ca4ac14aeca8)
-
-*Reflections on existence and meaning*
 
 </td>
 </tr>
