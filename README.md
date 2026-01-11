@@ -120,8 +120,10 @@ Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné 
 **Open to collaborations, opportunities, and conversations about tech & design**
 
 <br/>
-[![Website]([https://img.shields.io/badge/harilala-riri-dev](https://img.shields.io/badge/WhatsApp-contact%3Flogo%3Dwhatsapp))](+261340596959)
+ 
+[![Website](https://img.shields.io/badge/WhatsApp-contact%3Flogo%3Dwhatsapp)](+261340596959)
 [![Website](https://img.shields.io/badge/harilala-riri-dev)](https://riri7887.github.io/)
+
 
 </div>
 
