@@ -91,6 +91,14 @@ Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné 
 - Publication d’articles/actualités (ex. page “Une meilleure communication entre enseignants, élèves et parents”).
 - Objectif : améliorer l’accès à l’information et la communication entre l’établissement et sa communauté.
 
+## Stack
+- Bootstrap v5, HTML/CSS/JS. 
+- Animations et micro-interactions : GSAP,  JS/jQuery.
+
+## Notes
+- Optimisations front : images WebP + lazy-loading, approche mobile-first.
+- Déploiement sur Dockploy (Nginx / PHP 8.3 / MySQL).
+
 </td>
 </tr>
 <tr>
