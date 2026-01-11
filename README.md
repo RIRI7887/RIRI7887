@@ -121,7 +121,7 @@ Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné 
 
 <br/>
  
-[![Website](https://img.shields.io/badge/WhatsApp-contact%3Flogo%3Dwhatsapp)](+261340596959)
+[![Website](https://img.shields.io/badge/WhatsApp-contact%3Flogo%3Dwhatsapp)](https://wa.me/+261340596959)
 [![Website](https://img.shields.io/badge/harilala-riri-dev)](https://riri7887.github.io/)
 
 
