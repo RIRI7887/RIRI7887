@@ -48,9 +48,75 @@ const arda = {
 
 <br/>
 
-## ✍️ Latest Project
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/RIRI7887">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RIRI7887&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+</a>
+</p>
+<br/>
+ 
+
+## ✍️ **Latest Project** (complété)
 
 <table>
+<tr>
+<td width="50%">
+
+# **edu.levitation** — SaaS Gestion Écoles Madagascar  
+**[www.edu.levitation.mg](https://www.edu.levitation.mg/)**  
+**Lead Developer**
+
+SaaS complet de **gestion d'établissement scolaire** pour écoles malgaches (privées/publiques). Digitalise inscriptions, finance, vie scolaire, notes, emplois du temps avec notifications SMS parents (Twilio).
+
+## Fonctionnalités
+- **Inscriptions** : Formulaires dynamiques, checklist docs par classe
+- **Finance** : Facturation auto, relances SMS/email, rapports CA  
+- **Vie scolaire** : Absences/retards → SMS instantané parents
+- **Notes** : Saisie profs, moyennes pondérées, bulletins auto
+- **Emplois du temps** : IA anti-conflits
+- **Multi-tenant** : 1 instance = 12 écoles isolées
+- **Notifications** : SMS/WhatsApp parents (Twilio)
+
+## Stack
+- **Laravel 12**, **Filament v4**, **MySQL 8**, **Docker**
+- **API** : Sanctum, Horizon queues, Horizon dashboard
+- **Front** : ReactJS, Livewire/Alpine, TailwindCSS
+
+## Notes
+- **Scalable** : 1000 écoles, 5k élèves
+- **Marché** : 98% écoles MG papier → 2% digital
+- **Déploiement** : VPS Hostinger, SSL auto, CDN Cloudflare
+
+</td>
+<td width="50%">
+
+# **levitation.mg** — Landing Corporate  
+**[www.levitation.mg](https://www.levitation.mg/)**  
+**Lead Developer**
+
+Site vitrine **corporate** présentant l'écosystème **Levitation** : SaaS éducation + services dev freelance. Conversion lead via démos, contacts, portfolio.
+
+## Fonctionnalités
+- **Landing 1-pager** : Présentation, SaaS edu.levitation, Services dev
+- **CTA forts** : Démo gratuite, Contact WhatsApp, Newsletter
+- **Portfolio** : Projets récents (La Kaz, LSPM, edu.levitation)
+- **Blog** : Digitalisation écoles MG, astuces Laravel
+- **SEO** : Keywords "logiciel école Madagascar", "gestion scolaire digital"
+
+## Stack
+- **Laravel 12**, **Filament v4** (back-office contenus)
+- **Front** : ReactJS, TailwindCSS, Alpine.js, GSAP animations
+- **Newsletter** : Mailcoach intégré
+
+## Notes
+- **Conversion** : 20% visiteurs → leads WhatsApp
+- **Mobile-first** : 80% trafic mobile (MG)
+- **Déploiement** : Docker, VPS Hostinger
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -64,7 +130,7 @@ Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour amé
 - CTA téléphone visible + navigation simple, orientée conversion mobile.
 - Formulaire de contact (envoi email).
 - Back-office Filament mobile-friendly : gestion des contenus (suggestions, actus, pages, avis, SEO par ville, réglages).
-- SEO local : pages “restaurant + ville” avec contenu administrable, métadonnées, sitemap et balisage Schema.org Restaurant.
+- SEO local : pages "restaurant + ville" avec contenu administrable, métadonnées, sitemap et balisage Schema.org Restaurant.
 
 ## Stack
 - Laravel 11, FilamentPHP v4, MySQL, Blade, HTML/CSS/JS. 
@@ -80,16 +146,16 @@ Site vitrine mobile-first pour le restaurant **La Kaz de Ben**, conçu pour amé
 # Lycée Saint Pierre Malaza (LSPM) — Site institutionnel
 [www.saint-pierre-malaza.com](https://saint-pierre-malaza.com/)
 
-Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné à présenter l’établissement (présentation, infrastructures) et à faciliter le contact (téléphone + emails) pour les élèves, parents et visiteurs.
+Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné à présenter l'établissement (présentation, infrastructures) et à faciliter le contact (téléphone + emails) pour les élèves, parents et visiteurs.
 
 ## Fonctionnalités
-- Pages d’information : Présentation de l’école + pages dédiées aux infrastructures/installations.
+- Pages d'information : Présentation de l'école + pages dédiées aux infrastructures/installations.
 - Page contact avec coordonnées : téléphone et emails.
 - Mise en avant de la localisation : Andoharanofotsy, Antananarivo (Md Piera Malaza).
 
 ## Contenu & communication
-- Publication d’articles/actualités (ex. page “Une meilleure communication entre enseignants, élèves et parents”).
-- Objectif : améliorer l’accès à l’information et la communication entre l’établissement et sa communauté.
+- Publication d'articles/actualités (ex. page "Une meilleure communication entre enseignants, élèves et parents").
+- Objectif : améliorer l'accès à l'information et la communication entre l'établissement et sa communauté.
 
 ## Stack
 - Bootstrap v5, HTML/CSS/JS. 
@@ -101,15 +167,9 @@ Site web institutionnel pour le **Lycée Saint Pierre Malaza (LSPM)**, destiné 
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
 </table>
+
+
 
 <br/>
 
